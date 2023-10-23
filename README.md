@@ -2,5 +2,5 @@
 
 
 * Git-url: [https://github.com/TristanLF/TP-GIT-TAIGA](https://github.com/TristanLF/TP-GIT-TAIGA)
-* TAIGA-url: [https://tree.taiga.io/XXX](https://tree.taiga.io/XXX)
+* TAIGA-url: [https://tree.taiga.io/etrange-tp-git-taiga](https://tree.taiga.io/project/etrange-tp-git-taiga)
 
